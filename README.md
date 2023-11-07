@@ -35,7 +35,7 @@ O aplicativo terá as seguintes funcionalidades:
   - Excluir produtos do sistema.
 
 
-## Instruções de Configuração
+## Instruções de Configuração:
 
 
 Para configurar e executar o projeto em sua máquina local, siga estas etapas:
